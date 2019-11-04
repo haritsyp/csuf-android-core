@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671105989459",
+    "firebase_url": "https://csuf-2ce6b.firebaseio.com",
+    "project_id": "csuf-2ce6b",
+    "storage_bucket": "csuf-2ce6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671105989459:android:a35b95a9c39b52a7963fa6",
+        "android_client_info": {
+          "package_name": "com.jitu.csuf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671105989459-ubverc4815dm7iql51m0au03t3qc1dtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jitu.csuf",
+            "certificate_hash": "9b90d3004b0c34b3b590191fefb6e8f070dfa96d"
+          }
+        },
+        {
+          "client_id": "671105989459-qg35u8cip4tmdh31t5hsm7dcr5j3a0fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3URKZpKVBmuN42gZwwmElT1hNnXsYTso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671105989459-qg35u8cip4tmdh31t5hsm7dcr5j3a0fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
